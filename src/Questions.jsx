@@ -1,6 +1,6 @@
 import React from 'react'
 import SingleQuestion from './SingleQuestion'
-
+// compo
 const Questions = ({data}) => {
 
   return (

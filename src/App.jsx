@@ -3,6 +3,7 @@ import questions from "./data";
 import Questions from "./Questions";
 
 const App = () => {
+  // state value
   const [data,setData] = useState(questions);
  
   return <main>
